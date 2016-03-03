@@ -1,0 +1,11 @@
+* {
+  font-family: "Microsoft Yahei", arial;
+}
+body {
+	line-height: 23px;
+    font-size: 13px;
+    color: #777;
+}
+h2 {
+	text-align: center;
+}
